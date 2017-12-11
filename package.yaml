@@ -1,7 +1,7 @@
 name: merkle-tree 
 version: 0.1.0
 synopsis: An implementation of a Merkle Tree and merkle tree proofs
-maintainer: Thomas Dietert (thomas@adjoint.io)
+maintainer: Adjoint Inc. (info@adjoint.io)
 license: Apache
 github: adjoint-io/merkle-tree
 category: Development
