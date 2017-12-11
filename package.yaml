@@ -1,5 +1,6 @@
 name: merkle-tree 
 version: 0.1.0
+description: An implementation of a Merkle Tree and merkle tree proofs
 synopsis: An implementation of a Merkle Tree and merkle tree proofs
 maintainer: Adjoint Inc. (info@adjoint.io)
 license: Apache
