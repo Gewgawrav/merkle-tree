@@ -2,6 +2,8 @@
   <a href="http://www.adjoint.io"><img src="https://www.adjoint.io/images/logo-small.png" width="250"/></a>
 </p>
 
+[![CircleCI](https://circleci.com/gh/adjoint-io/merkle-tree.svg?style=svg)](https://circleci.com/gh/adjoint-io/merkle-tree)
+
 merkle-tree
 ===========
 
