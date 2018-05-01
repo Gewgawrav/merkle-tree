@@ -1,10 +1,13 @@
--- This file has been generated from package.yaml by hpack version 0.19.3.
+-- This file has been generated from package.yaml by hpack version 0.20.0.
 --
 -- see: https://github.com/sol/hpack
+--
+-- hash: 80dc739158396165b840c8ef873150c8dc3eb32839241ce21d2ed9b88446c630
 
 name:                merkle-tree
 version:             0.1.0
 synopsis:            An implementation of a Merkle Tree and merkle tree proofs
+description:         An implementation of a Merkle Tree and merkle tree proofs
 homepage:            https://github.com/adjoint-io/merkle-tree#readme
 bug-reports:         https://github.com/adjoint-io/merkle-tree/issues
 license:             Apache
