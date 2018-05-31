@@ -3,6 +3,7 @@
 </p>
 
 [![CircleCI](https://circleci.com/gh/adjoint-io/merkle-tree.svg?style=svg)](https://circleci.com/gh/adjoint-io/merkle-tree)
+[![Hackage](https://img.shields.io/hackage/v/merkle-tree.svg)](https://hackage.haskell.org/package/merkle-tree)
 
 merkle-tree
 ===========
