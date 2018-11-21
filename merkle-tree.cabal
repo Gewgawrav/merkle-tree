@@ -1,8 +1,8 @@
--- This file has been generated from package.yaml by hpack version 0.20.0.
+-- This file has been generated from package.yaml by hpack version 0.28.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 80dc739158396165b840c8ef873150c8dc3eb32839241ce21d2ed9b88446c630
+-- hash: bbf9bea8b0c9e4a657e651d55eb44f9c1d2b73469d01cccfa53533635996f2b6
 
 name:                merkle-tree
 version:             0.1.0
@@ -16,7 +16,6 @@ maintainer:          Adjoint Inc. (info@adjoint.io)
 category:            Development
 build-type:          Simple
 cabal-version:       >= 1.10
-
 extra-source-files:
     README.md
 
