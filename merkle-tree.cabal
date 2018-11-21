@@ -2,12 +2,12 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: bbf9bea8b0c9e4a657e651d55eb44f9c1d2b73469d01cccfa53533635996f2b6
+-- hash: e6e8b1519399e076de8c8d14969f1f7d782a4c6117b38e6f85b143c5fe832003
 
 name:                merkle-tree
-version:             0.1.0
-synopsis:            An implementation of a Merkle Tree and merkle tree proofs
-description:         An implementation of a Merkle Tree and merkle tree proofs
+version:             0.1.1
+synopsis:            An implementation of a Merkle tree and merkle tree proofs of inclusion
+description:         An implementation of a Merkle tree and merkle tree proofs of inclusion
 homepage:            https://github.com/adjoint-io/merkle-tree#readme
 bug-reports:         https://github.com/adjoint-io/merkle-tree/issues
 license:             Apache
